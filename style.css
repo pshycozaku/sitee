@@ -1,0 +1,42 @@
+body {
+    background-image: url('https://www.levelofficelandscape.com/wp-content/uploads/2020/06/progetta-ufficio-sicuro-Level-Office-Landscape-copertina.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;  
+    
+}
+
+
+
+div{
+    background-color: whitesmoke;
+    background-size:100px 100px;
+    position: fixed;
+    top: 0;
+    right: 1px;
+    opacity: 0.91;
+    
+}
+
+
+h1{
+    font-size: 80px;
+    font-style: oblique;
+    text-align: center;
+    
+}
+
+h3{
+    font-style: oblique;
+    font-weight: lighter;
+    font-size: 30px;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    font-style: oblique;
+    font-weight: lighter;
+    font-size: 8px;
+}
+
